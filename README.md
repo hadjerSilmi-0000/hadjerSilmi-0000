@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**Software Engineer · AI & Full-Stack Developer **
+Software Engineer · AI & Full-Stack Developer 
 
 
 </div>
