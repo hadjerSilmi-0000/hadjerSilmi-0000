@@ -36,11 +36,11 @@ class HadjerSilmi:
 
 | Project | Stack | Highlight |
 |--------|-------|-----------|
-| 🛡️ **[Taamine] ** — Insurance Fraud Detection | NestJS · FastAPI · YOLOv8 · BERT · XGBoost · PostgreSQL · Docker | 4 AI microservices · full CI/CD · n8n automation |
-| 🤖 **[RAG Chatbot] ** — Multilingual LLM | LangChain · FAISS · LLaMA · FastAPI · React | 3-language chatbot grounded on company docs |
-| 🚖 **[TaxiBook] ** — Distributed Booking System | Django · RabbitMQ · Consul · Traefik · React | Deployed across 4 physical machines |
-| 🧠 **[BERT Sentiment] ** — NLP Fine-tuning | PyTorch · BERT · Express.js · React | 90.98% accuracy · 110M parameter model |
-| 📦 **[Stock Management] ** — Event-Driven Microservices | Node.js · RabbitMQ · MongoDB · React | Circuit breakers · low-stock alerts pipeline |
+| Taamine  — Insurance Fraud Detection | NestJS · FastAPI · YOLOv8 · BERT · XGBoost · PostgreSQL · Docker | 4 AI microservices · full CI/CD · n8n automation |
+| RAG Chatbot— Multilingual LLM | LangChain · FAISS · LLaMA · FastAPI · React | 3-language chatbot grounded on company docs |
+| TaxiBook— Distributed Booking System | Django · RabbitMQ · Consul · Traefik · React | Deployed across 4 physical machines |
+| BERT Sentiment — NLP Fine-tuning | PyTorch · BERT · Express.js · React | 90.98% accuracy · 110M parameter model |
+| Stock Management — Event-Driven Microservices | Node.js · RabbitMQ · MongoDB · React | Circuit breakers · low-stock alerts pipeline |
 
 ---
 
