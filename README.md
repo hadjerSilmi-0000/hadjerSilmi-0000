@@ -19,7 +19,7 @@ Software Engineer · AI & Full-Stack Developer
 class HadjerSilmi:
     location    = "Boumerdes, Algeria"
     education   = "Software Engineering @ UMBB (State Engineer, 2027)"
-    status      = "4th year · seeking internship · building cool things"
+    status      = "4th year · full-stack · building cool things"
 
     focus = [
         "Distributed systems & microservices architecture",
