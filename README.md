@@ -102,14 +102,14 @@ class HadjerSilmi:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadjer-silmi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadjer-silmi&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadjerSilmi-0000&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadjerSilmi-0000&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadjer-silmi&theme=midnight-purple&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadjerSilmi-0000&theme=midnight-purple&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -120,9 +120,9 @@ class HadjerSilmi:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hadjer-silmi/hadjer-silmi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hadjer-silmi/hadjer-silmi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hadjer-silmi/hadjer-silmi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hadjerSilmi-0000/hadjerSilmi-0000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hadjerSilmi-0000/hadjerSilmi-0000/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hadjerSilmi-0000/hadjerSilmi-0000/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
