@@ -6,9 +6,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-7dd3fc?style=flat-square)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-contact-24243e?style=flat-square&logo=gmail&logoColor=white)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=hadjerSilmi-0000&color=302b63&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/hadjerSilmi-0000?color=302b63&style=flat-square&label=FOLLOWERS)
 
 </div>
 
@@ -29,16 +28,6 @@ class HadjerSilmi:
         "LLMs, RAG pipelines, and NLP",
     ]
 ```
-
----
-
-## Live GitHub Dashboard
-
-<div align="center">
-  <img src="./dist/dashboard.svg" alt="Hadjer Silmi's GitHub engineering dashboard" width="100%" />
-</div>
-
-<sub>Auto-refreshed daily via GitHub Actions — see <code>.github/workflows/dashboard.yml</code>.</sub>
 
 ---
 
@@ -106,6 +95,12 @@ class HadjerSilmi:
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadjerSilmi-0000&theme=midnight-purple&hide_border=true&background=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadjerSilmi-0000&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
 
 </div>
 
