@@ -1,32 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hadjer%20Silmi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SILMI%20Hadjer&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=trained%20on%20coffee%2C%20stress%2C%20and%20backpropagation&descSize=16&descAlignY=58&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hadjerSilmi-0000&color=302b63&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/hadjerSilmi-0000?color=302b63&style=flat-square&label=FOLLOWERS)
+Software Engineer · AI & Full-Stack Developer 
+
 
 </div>
 
 ---
 
-## About Me
+##  About Me
 
 ```python
 class HadjerSilmi:
-    location  = "Boumerdes, Algeria"
-    education = "Software Engineering @ UMBB (State Engineer, 2027)"
-    role      = "Final-year software engineering student · Full-stack & AI developer"
+    location    = "Boumerdes, Algeria"
+    education   = "Software Engineering @ UMBB (State Engineer, 2027)"
+    status      = "Final year software engineering student · full-stack · building cool things"
 
     focus = [
         "Distributed systems & microservices architecture",
         "AI/ML integration in production applications",
         "Full-stack development (Node.js · React · Next.js)",
-        "LLMs, RAG pipelines, and NLP",
+        "LLMs, RAG pipelines, and NLP"
     ]
+
 ```
 
 ---
@@ -34,39 +35,49 @@ class HadjerSilmi:
 ## Featured Projects
 
 | Project | Stack | Highlight |
-|---|---|---|
-| **Taamine** — Insurance Fraud Detection | NestJS · FastAPI · YOLOv8 · BERT · XGBoost · PostgreSQL · Docker | 4 AI microservices · full CI/CD · n8n automation |
-| **RAG Chatbot** — Multilingual LLM Assistant | LangChain · FAISS · LLaMA · FastAPI · React | 3-language chatbot grounded on company docs |
-| **TaxiBook** — Distributed Booking System | Django · RabbitMQ · Consul · Traefik · React | Deployed across 4 physical machines |
-| **BERT Sentiment** — NLP Fine-Tuning | PyTorch · BERT · Express.js · React | 90.98% accuracy · 110M-parameter model |
-| **Stock Management** — Event-Driven Microservices | Node.js · RabbitMQ · MongoDB · React | Circuit breakers · low-stock alert pipeline |
+|--------|-------|-----------|
+| Taamine  — Insurance Fraud Detection | NestJS · FastAPI · YOLOv8 · BERT · XGBoost · PostgreSQL · Docker | 4 AI microservices · full CI/CD · n8n automation |
+| RAG Chatbot— Multilingual LLM | LangChain · FAISS · LLaMA · FastAPI · React | 3-language chatbot grounded on company docs |
+| TaxiBook— Distributed Booking System | Django · RabbitMQ · Consul · Traefik · React | Deployed across 4 physical machines |
+| BERT Sentiment — NLP Fine-tuning | PyTorch · BERT · Express.js · React | 90.98% accuracy · 110M parameter model |
+| Stock Management — Event-Driven Microservices | Node.js · RabbitMQ · MongoDB · React | Circuit breakers · low-stock alerts pipeline |
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
-**Backend**
+### Backend
+<div>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,java" />
+</div>
 
-**Frontend**
+### Frontend
+<div>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts" />
+</div>
 
-**Databases**
+### Databases
+<div>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,neo4j,sqlite" />
+</div>
 
-**AI / ML**
+### AI / ML
+<div>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn" />
+</div>
 
-> LangChain · FAISS · BERT · YOLOv8 · LLM Fine-Tuning · RAG · Computer Vision · NLP
+> LangChain · FAISS · BERT · YOLOv8 · LLM Fine-tuning · RAG · Computer Vision · NLP
 
-**DevOps & Tools**
+### DevOps & Tools
+<div>
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,jest,jira" />
+</div>
 
 > RabbitMQ · Consul · Traefik · n8n · Prisma · Swagger
 
 ---
 
-## CS Foundations
+##  CS Foundations
 
 <details>
 <summary>Click to expand</summary>
@@ -83,7 +94,7 @@ class HadjerSilmi:
 
 ---
 
-## GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -98,15 +109,9 @@ class HadjerSilmi:
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadjerSilmi-0000&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
-
-</div>
-
 ---
 
-## Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -120,10 +125,10 @@ class HadjerSilmi:
 
 ---
 
-## Certifications
+##  Certifications
 
-- **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — Oracle
-- **React.js Bootcamp** — DevUp
+-  **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — Oracle
+-  **React.js Bootcamp** — DevUp
 
 ---
 
